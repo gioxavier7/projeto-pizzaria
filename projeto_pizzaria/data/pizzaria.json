@@ -1,0 +1,54 @@
+{
+    "cardapio": [
+        {
+            "nome": "",
+            "descricao": "",
+            "preco": "",
+            "receita": ""
+        },
+        {
+            "nome": "",
+            "descricao": "",
+            "preco": "",
+            "receita": ""
+        },
+        {
+            "nome": "",
+            "descricao": "",
+            "preco": "",
+            "receita": ""
+        }
+    ],
+    "receitas": [],
+    "pedidos": [
+        {
+            "nome_pizza": "",
+            "quantidade": "",
+            "endereco_entrega": ""
+        },
+        {
+            "nome_pizza": "",
+            "quantidade": "",
+            "endereco_entrega": ""
+        }
+    ],
+    "perfil": {
+        "nome": "",
+        "email": "",
+        "senha": "",
+        "telefone": "",
+        "cpf": ""
+    },
+    "perfil_loja": {
+        "nome_estabelecimento": "",
+        "telefone_loja": "",
+        "horario_atendiento": "",
+        "endereco": ""
+    },
+    "estoque": {
+        "musarela": {
+            "quantidade": "",
+            "validade": ""
+        }
+    }
+}
